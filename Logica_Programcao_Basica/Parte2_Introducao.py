@@ -35,4 +35,6 @@ print(type(45),type(-90),type(67.9),type("Olá"))
 #Pensar como SIM ou NAO
 print(23 == 23) #True
 print(45 == 98) #False
+print(type(True))
+print(type(False))
 
