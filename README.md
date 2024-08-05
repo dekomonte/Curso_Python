@@ -1,5 +1,5 @@
 # Curso_Python
-Repositório do [Curso de Python 3](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING). </br>
+Repositório do [Curso de Python 3 do Básico ao Avançado com Projetos Reais](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING). </br>
 
 
 #### Ferramentas
