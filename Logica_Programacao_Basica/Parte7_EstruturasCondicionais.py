@@ -64,3 +64,10 @@ if encontrar in nome:
     print(f'{encontrar} está em {nome}')
 else:
     print(f'{encontrar} não está em {nome}')
+
+"""
+Flag (Bandeira) - Marcar um local
+None -> não valor
+is e is not -> é ou não é (tipo, valor, identidade)
+id -> identidade
+"""
