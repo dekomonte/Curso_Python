@@ -31,3 +31,7 @@ and -> Todas as condições precisam ser verdadeiras
 Se qualquer valor for considerado falso, a expressão inteira será avaliada naquele valor
 Também existe o tipo None que é usado para representar um não valor
 """
+
+# Operador lógico "not" -> Usado para inverter expressões
+# not True = False
+# not False = True
