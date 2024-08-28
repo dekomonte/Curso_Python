@@ -19,3 +19,13 @@ rg = '999x999'
 
 print('CPF: '+ cpf)
 print('RG: ' + rg)
+
+#==========Constantes==========
+#Nao tem esse conceito em python
+#Mas existe a convencao de usar letras maiusculas
+
+PI = 3
+RAIO = 2.5
+
+print(PI)
+print(RAIO)
