@@ -12,25 +12,23 @@ print("FORA DO BLOCO")
 
 
 #==========Operadores de Comparacao==========
-"""
-OP      Significado         Exemplo (True)
->       maior               2 > 1
->=      maior ou igual      2 >= 2
-<       menor               1 < 2
-<=      menor ou igual      2 <= 2
-==      igual               'a' == 'a'
-!=      diferente           'a' != 'b'
-"""
+
+#OP                          Exemplo (True)
+#>       maior               2 > 1
+#>=      maior ou igual      2 >= 2
+#<       menor               1 < 2
+#<=      menor ou igual      2 <= 2
+#==      igual               'a' == 'a'
+#!=      diferente           'a' != 'b'
+
 
 #==========Operadores Logicos==========
-"""
-and (e) 
-or (ou) 
-not (não)
-and -> Todas as condições precisam ser verdadeiras
-Se qualquer valor for considerado falso, a expressão inteira será avaliada naquele valor
-Também existe o tipo None que é usado para representar um não valor
-"""
+
+#and (e)
+#or (ou)
+#not (não)
+#and -> Todas as condições precisam ser verdadeiras
+#None -> Usado para representar um não valor
 
 # Operador lógico "not" -> Usado para inverter expressões
 # not True = False
@@ -65,9 +63,8 @@ if encontrar in nome:
 else:
     print(f'{encontrar} não está em {nome}')
 
-"""
-Flag (Bandeira) -> Marcar um local
-None -> não valor
-is e is not -> é ou não é (tipo, valor, identidade)
-id -> identidade
-"""
+
+#Flag -> Marcar um local
+#None -> não valor
+#is e is not -> é ou não é (tipo, valor, identidade)
+#id -> identidade
