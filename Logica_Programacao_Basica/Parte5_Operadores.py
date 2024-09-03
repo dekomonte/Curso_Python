@@ -43,3 +43,9 @@ print(nome+sobrenome)
 # 3. * / // %
 # 4. + -
 
+#==========Operadores de Atribuicao==========
+# = += -= *= /= //= **= %=
+val1=62
+val1/=4
+print(val1)
+
